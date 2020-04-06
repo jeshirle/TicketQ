@@ -1,0 +1,8 @@
+TicketQ
+04/06/20
+Jeff Shirley
+
+Explanation
+
+There is no file for integration testing due to the main code putting all the tests together. My main file contains the integration test. 
+There is no file for data collection due to the main code collection and displaying all data gathered. My main file shows all data collection.
