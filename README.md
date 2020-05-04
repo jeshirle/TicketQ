@@ -1,2 +1,0 @@
-# TicketQ
-Repository for TicketQ
